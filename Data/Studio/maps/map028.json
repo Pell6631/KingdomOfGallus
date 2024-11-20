@@ -1,0 +1,19 @@
+{
+  "klass": "Map",
+  "id": 28,
+  "dbSymbol": "map028",
+  "stepsAverage": 30,
+  "bgm": {
+    "name": "My castle town.ogg",
+    "pitch": 100,
+    "volume": 100
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "mtime": 1,
+  "sha1": "",
+  "tiledFilename": ""
+}

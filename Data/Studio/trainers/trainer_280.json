@@ -1,0 +1,91 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 280,
+  "dbSymbol": "trainer_280",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 0,
+  "bagEntries": [],
+  "battleId": 0,
+  "ai": 4,
+  "party": [
+    {
+      "specie": "honedge",
+      "form": 0,
+      "shinySetup": {
+        "kind": "automatic",
+        "rate": -1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 15
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 31,
+            "atk": 31,
+            "dfe": 31,
+            "spd": 31,
+            "ats": 31,
+            "dfs": 31
+          }
+        },
+        {
+          "type": "itemHeld",
+          "value": "eviolite"
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Conrad"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "nature",
+          "value": "jolly"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "sprite": "hero_01_red",
+    "artworkFull": "",
+    "artworkSmall": "",
+    "character": "",
+    "musics": {
+      "bgm": "",
+      "defeat": "",
+      "encounter": "",
+      "victory": ""
+    }
+  }
+}

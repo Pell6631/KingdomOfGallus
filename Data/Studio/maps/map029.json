@@ -1,0 +1,19 @@
+{
+  "klass": "Map",
+  "id": 29,
+  "dbSymbol": "map029",
+  "stepsAverage": 10,
+  "bgm": {
+    "name": "pkmrs-111.mp3",
+    "pitch": 100,
+    "volume": 50
+  },
+  "bgs": {
+    "name": "",
+    "volume": 100,
+    "pitch": 100
+  },
+  "mtime": 1,
+  "sha1": "",
+  "tiledFilename": ""
+}
