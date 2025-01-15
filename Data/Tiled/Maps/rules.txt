@@ -2,3 +2,5 @@ rules_TECH_trees.tmx
 rules_TECH_buildings.tmx
 rules_TECH_assets.tmx
 rules_TECH_nature.tmx
+rules_TREES.tmx
+rules_TECH_assets_indoor.tmx

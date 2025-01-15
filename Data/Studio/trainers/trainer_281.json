@@ -1,0 +1,87 @@
+{
+  "klass": "TrainerBattleSetup",
+  "id": 281,
+  "dbSymbol": "trainer_281",
+  "vsType": 1,
+  "isCouple": false,
+  "baseMoney": 10,
+  "bagEntries": [],
+  "battleId": 0,
+  "ai": 3,
+  "party": [
+    {
+      "specie": "vulpix",
+      "form": 1,
+      "shinySetup": {
+        "kind": "rate",
+        "rate": 1
+      },
+      "levelSetup": {
+        "kind": "fixed",
+        "level": 20
+      },
+      "randomEncounterChance": 1,
+      "expandPokemonSetup": [
+        {
+          "type": "evs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "ivs",
+          "value": {
+            "hp": 0,
+            "atk": 0,
+            "dfe": 0,
+            "spd": 0,
+            "ats": 0,
+            "dfs": 0
+          }
+        },
+        {
+          "type": "loyalty",
+          "value": 70
+        },
+        {
+          "type": "moves",
+          "value": [
+            "__undef__",
+            "__undef__",
+            "__undef__",
+            "__undef__"
+          ]
+        },
+        {
+          "type": "originalTrainerName",
+          "value": "Conrad"
+        },
+        {
+          "type": "originalTrainerId",
+          "value": 0
+        },
+        {
+          "type": "caughtWith",
+          "value": "premier_ball"
+        }
+      ]
+    }
+  ],
+  "resources": {
+    "sprite": "",
+    "artworkFull": "001_big",
+    "artworkSmall": "001_sma",
+    "character": "",
+    "musics": {
+      "encounter": "",
+      "victory": "",
+      "defeat": "",
+      "bgm": "vs_conrad.mp3"
+    }
+  }
+}
